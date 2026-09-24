@@ -1,0 +1,46 @@
+body {
+background-color: #7c0200;
+color: #f7f6f6;
+font-family: Arial, sans-serif;
+text-align: center;
+}
+.room {
+width: 600px;
+margin: 80px auto;
+padding: 40px;
+border: 5px solid #000000;
+border-radius: 10px;
+}
+.button {
+display: block;
+width: 350px;
+margin: 15px auto;
+padding: 15px;
+background-color: #03342e;
+color: #c50300;
+text-decoration: none;
+border-radius: 8px;
+}
+.button:hover {
+background-color: #cccccc;
+}
+.wrong{
+    background-color: #000000;
+    padding: 100px;
+}
+.victory{
+    background-color: white;
+    
+}
+.victory h1{
+    color: #2dc902;
+}
+.victory h2{
+    color: #000000;
+}
+.victory .button{
+    background-color: #2dc902  ;
+}
+.victory a{
+    color: #000000;
+}
